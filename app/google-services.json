@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "409145861821",
+    "project_id": "mybijnessguru",
+    "storage_bucket": "mybijnessguru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409145861821:android:9dadb5aa241af3bbe979d4",
+        "android_client_info": {
+          "package_name": "com.omegha.woohoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409145861821-o87ejq7sk9nrgh40vca8id77i02f0n5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoNU_vFtd1moPb5vfegUtb8lGkw8HuHcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409145861821-o87ejq7sk9nrgh40vca8id77i02f0n5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409145861821:android:eeca488ecfbe79e2e979d4",
+        "android_client_info": {
+          "package_name": "com.softwebfashion.mpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409145861821-o87ejq7sk9nrgh40vca8id77i02f0n5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoNU_vFtd1moPb5vfegUtb8lGkw8HuHcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409145861821-o87ejq7sk9nrgh40vca8id77i02f0n5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
